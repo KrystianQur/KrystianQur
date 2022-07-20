@@ -1,3 +1,1 @@
-NWM
-
-OK
+A apps, games, discordbot developer.
